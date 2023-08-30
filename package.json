@@ -13,5 +13,14 @@
   "bugs": "https://github.com/tuffstuff9/tailwindcss-bg-breakpoint/issues",
   "peerDependencies": {
     "tailwindcss": "^1.0 || ^2.0 || ^3.0"
-  }
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "tailwind-plugin",
+    "tailwind-theme",
+    "tailwind-extension",
+    "tailwind-utilities",
+    "tailwind-background-plugin",
+  ]
 }
