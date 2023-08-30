@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-bg-breakpoint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable Tailwind CSS plugin that responsively changes the background color based on screen size.",
   "main": "index.js",
   "author": "tuffstuff9",
