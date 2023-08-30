@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/tuffstuff9/tailwindcss-bg-breakpoint"
   },
-  "homepage": "",
-  "bugs": "",
+  "homepage": "https://github.com/tuffstuff9/tailwindcss-bg-breakpoint",
+  "bugs": "https://github.com/tuffstuff9/tailwindcss-bg-breakpoint/issues",
   "peerDependencies": {
     "tailwindcss": "^1.0 || ^2.0 || ^3.0"
   }
