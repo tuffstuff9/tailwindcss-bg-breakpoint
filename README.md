@@ -49,6 +49,8 @@ Here are the default colors applied for each breakpoint (note: DEFAULT is for an
 - xl: `red-800`
 - 2xl: `rose-900`
 
+<img width="500" alt="tailwind background breakpoint colors" src="https://github.com/tuffstuff9/tailwindcss-bg-breakpoint/assets/57072903/cc01adcd-4dd7-4146-9ccf-3b24df8eb6cb">
+
 ### Setting Up Customization in `tailwind.config.js`
 
 To customize the background colors for different breakpoints, you need to define them under the `theme` key in your `tailwind.config.js`.
